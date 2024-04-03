@@ -1,5 +1,5 @@
 asgiref==3.7.2
-certifi==2023.5.7
+certifi==2023.7.22
 charset-normalizer==3.1.0
 Django==4.2.11
 filelock==3.12.1
@@ -16,8 +16,8 @@ safetensors==0.3.1
 sqlparse==0.4.4
 tokenizers==0.13.3
 -f https://download.pytorch.org/whl/torch_stable.html
-torch==1.7.1+cpu
+torch==1.13.1
 tqdm==4.65.0
-transformers==4.30.1
+transformers==4.36.1
 typing_extensions==4.6.3
 urllib3==2.0.3
